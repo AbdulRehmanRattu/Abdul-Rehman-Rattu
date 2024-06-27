@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdulrehman7832" target="blank"><img src="https://img.shields.io/twitter/follow/abdulrehman7832?logo=twitter&style=for-the-badge" alt="abdulrehman7832" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Flutter**
+- 🌱 I’m currently learning **LLMs, Generative AI, Reinforcement Learning, Quantum Computing, Cloud Deployment**
 
 - 📝 I regularly write articles on [Artificial Intelligence and Machine Learning]
 
