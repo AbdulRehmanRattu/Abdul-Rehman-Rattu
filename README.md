@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rattu786.ar@gmail.com**
 
-- ⚡ Fun fact **At 23, I'm a programming whiz, guitar aficionado, photography buff, and future data scientist. Quite the combination, isn't it?**
+- ⚡ Fun fact **At 23, I'm a programming whiz, guitar aficionado, photography buff, and data scientist. Quite the combination, isn't it?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
